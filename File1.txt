@@ -1,2 +1,7 @@
 Hi
 This is File 1
+12
+this
+is 
+New
+Line
